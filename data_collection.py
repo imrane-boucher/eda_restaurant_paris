@@ -1,6 +1,7 @@
 # we are going to collect data about various restaurants in Paris 
 # using the Yelp API
 
+# ressources : https://learn.co/lessons/python-api-intro-yelp
 import requests 
 import pandas as pd
 

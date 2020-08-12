@@ -1,0 +1,951 @@
+﻿name,review_count,categories,rating,price,zip_code,street
+Baroche,204,brasseries,4.0,2.0,75008, rue la Boétie
+Le Train Bleu,256,french,4.0,4.0,75012,Place Louis Armand
+La Méthode,29,french,4.0,2.0,75005, rue Descartes
+Little Breizh,206,creperies,4.5,2.0,75006, rue Grégoire de Tours
+La Consigne,7,brasseries,4.0,2.0,75012,  rue de Lyon
+Le Petit Marché,92,french,4.5,3.0,75003, rue Béarn
+Chez Félicie,106,french,4.0,2.0,75014, avenue du Maine
+Le Comptoir,436,bistros,4.0,3.0,75006, carrefour de l'Odeon
+Victoires,216,french,4.0,2.0,75001, rue la Vrillière
+Loup,57,french,4.0,3.0,75001, rue du Louvre
+Le Saint André,21,brasseries,4.0,2.0,75006, rue Danton
+Les Embruns,64,french,4.5,2.0,75012, rue de Lyon
+Les Artizans,24,cakeshop,4.5,2.0,75001, rue de Montorgueil
+Les Papilles,253,wine_bars,4.5,3.0,75005, rue Gay-Lussac
+La Rotonde,165,brasseries,4.0,3.0,75006, boulevard du Montparnasse
+La Régalade,86,french,4.5,3.0,75001, rue Saint-Honoré
+The Hardware Société,179,coffee,4.5,2.0,75018, rue Lamarck
+La Tartine,32,french,4.0,2.0,75004, rue de Rivoli
+Café de Flore,400,cafes,3.5,3.0,75006, boulevard Saint-Germain
+Ellsworth,114,wine_bars,4.5,3.0,75001, rue de Richelieu
+Monsieur Bleu,157,french,4.0,3.0,75116, avenue de New York
+Eric Kayser,129,bakeries,4.5,1.0,75005, rue Monge
+Au Métro,11,brasseries,4.5,2.0,75011, rue de Malte
+Treize Bakery Paris,14,breakfast_brunch,4.5,,75006, rue de Médicis
+Le Brun,8,french,5.0,,75001, rue Saint Honoré
+Le Rubis,51,bistros,4.0,1.0,75001, rue du Marché Saint-Honoré
+Buvette Gastrothèque,122,french,4.0,2.0,75009, rue Henri Monnier
+Le Cirque,9,french,4.5,2.0,75004, rue Saint-Martin
+Les Résistants,4,french,5.0,3.0,75010,- rue du Château d'Eau
+Les Crocs des Halles,8,bbq,4.5,3.0,75001, rue Berger
+Grenouilles,35,sandwiches,5.0,1.0,75018, rue du Chevalier de la Barre
+Le Temps des Cerises,335,french,4.5,2.0,75004, rue de la Cerisaie
+Le Café,61,cafes,4.5,2.0,75002, rue Tiquetonne
+Chez Fernand,191,french,4.5,3.0,75006, rue Christine
+Café Oberkampf,50,cafes,4.5,2.0,75011, rue Neuve Popincourt
+La Crêperie de Josselin,417,creperies,4.0,2.0,75014, rue du Montparnasse
+Chez Troquette,12,french,5.0,2.0,75011, rue Saint-Maur
+L'Amour Vache,22,brasseries,4.5,2.0,75010, bd de Bonne Nouvelle
+Les Cocottes Arc de Triomphe,16,french,4.5,3.0,75008,Sofitel Arc de Triomphe
+L'Escargot,199,french,4.0,3.0,75001, rue Montorgueil
+Le Relais de l'Entrecôte,428,steak,4.0,3.0,75006, rue Saint Benoît
+La Vie d'Ange,37,french,4.5,3.0,75014, bd Saint-Jacques
+Pedzouille,23,bistros,5.0,2.0,75010, rue du Faubourg Poissonnière
+Le Saint Germain,22,brasseries,3.5,,75007, rue du Bac
+Au Petit Tonneau,40,bistros,4.5,3.0,75007, rue Surcouf
+Le Place Falguière,7,french,4.5,,75015, place Falguière
+Coutume,247,coffeeroasteries,4.0,2.0,75007, rue de Babylone
+Guy Savoy,65,french,4.5,4.0,75006,Monnaie de Paris
+Le Café de la Mairie,4,bistros,5.0,,75003, rue des Archives
+Chez Alain Miam Miam,159,creperies,4.5,2.0,75003, rue Charlot
+Brasserie de la Bourse,13,french,4.0,2.0,75001, Rue Jean Jacques Rousseau
+Le Jardin Français,6,french,4.0,2.0,75008, rue du Faubourg Saint-Honoré
+Pascade,78,french,4.5,3.0,75002, rue Daunou
+Le Chevaleret,1,brasseries,5.0,,75012, rue du Chevaleret
+Café du Marché des Enfants Rouges,39,cafes,4.0,2.0,75003, Rue Bretagne
+Claus - La Table du Petit-Déjeuner,248,breakfast_brunch,4.5,3.0,75001, rue Jean-Jacques Rousseau
+Lion Sot,5,french,5.0,,75014, avenue René Coty
+Lazare,62,french,4.0,3.0,75008,Parvis de la Gare Saint-Lazare
+Clown Bar,68,french,4.0,3.0,75011, rue Amelot
+Girafe,42,french,4.0,,75016, place du Trocadéro
+Café Belloy,15,cafes,5.0,,75116, avenue Kléber
+La Poule au Pot,110,french,4.0,3.0,75001, rue Vauvilliers
+L'Estrapade,42,french,5.0,3.0,75005, rue de l'Estrapade
+Aux Vieux Garçons,13,french,4.5,3.0,75007, bd St Germain
+Le Bistro Lyonnais,9,french,4.5,2.0,75012, rue Michel Chasles
+L'Oratoire,3,brasseries,4.5,,75001, rue Saint-Honoré
+L'Avenue,200,brasseries,3.5,4.0,75008, avenue Montaigne
+La Maison Bleue,37,bistros,4.5,3.0,75010, place Franz Liszt
+Maison Sauvage,38,french,4.0,2.0,75006, rue de Buci
+Le Soufflé,260,french,4.0,3.0,75001, rue du Mont Thabor
+Café de l'Empire,97,brasseries,4.0,2.0,75007, rue du Bac
+La Crème de Paris,123,icecream,4.0,1.0,75009, rue du Faubourg Montmartre
+Le Dôme du Marais,152,french,4.0,3.0,75004,  rue des Francs Bourgeois
+Le Bistrot de Paris,25,french,4.5,3.0,75007, rue de Lille
+Les Marmites Volantes,12,modern_european,4.5,2.0,75019, rue Armand Carrel
+Café Louise,77,cafes,4.0,2.0,75006, bd Saint Germain
+Aux Arts et Sciences Réunis,24,french,4.0,2.0,75019, avenue Jean Jaurès
+Carpe Diem Café,164,french,4.0,2.0,75001, rue des Halles
+Tannat,10,modern_european,4.5,3.0,75011, avenue Parmentier
+Songsan,28,korean,4.0,2.0,75015, rue Marmontel
+Le Restaurant 217,2,brasseries,4.0,,75012, avenue Daumesnil
+Chez Lili et Marcel,198,french,4.0,2.0,75013, quai Austerlitz
+Chez Monsieur,75,french,4.5,3.0,75008, rue Chevalier de Saint-George
+Benedict,77,bistros,4.0,3.0,75004, rue Sainte-Croix de la Bretonnerie
+Restaurant Mumi,6,french,4.5,,75001, rue Sauval
+Café Pouchkine,14,french,4.0,2.0,75008, place de la Madeleine
+Bistrot 79,7,bistros,4.0,1.0,75012, bd Diderot
+24 le Restaurant,2,french,5.0,,75008, rue Jean Mermoz
+Georgette,22,brasseries,4.5,3.0,75006, rue d'Assas
+Breizh Café,440,creperies,4.0,2.0,75003, rue Vieille du Temple
+Le Prince Racine,6,cafes,4.0,,75006, rue Monsieur le Prince
+Le Roi de Pique,11,brasseries,4.0,2.0,75003, rue du Temple
+Au Paradis Tropical,10,caribbean,4.5,,75018, rue Custine
+Neighbours,21,breakfast_brunch,5.0,2.0,75003, boulevard Beaumarchais
+Le Comptoir du Marché,1,french,5.0,,75008,Champs-Elysées
+La Petite Périgourdine,114,french,4.0,3.0,75005, rue des Ecoles
+Kanna Tanna,7,srilankan,5.0,,75009, rue Jean Baptiste Pigalle
+Chouette,4,french,5.0,2.0,75020, rue des Pyrénées
+Gemini,32,italian,4.5,2.0,75001, rue des Halles
+L'Entente,13,british,4.5,2.0,75002, rue Monsigny
+Les Marches,15,french,3.5,2.0,75116, rue de la Manutention
+ASPIC,21,french,5.0,4.0,75009, rue de la Tour d'Auvergne
+Bulliz,20,gourmet,4.5,1.0,75010, rue d'Hauteville
+Le Cinq,136,french,4.5,4.0,75008,
+Le Basilic,162,french,4.0,2.0,75018, rue Lepic
+Café des Anges,150,french,4.0,2.0,75011, rue de la Roquette
+La Vache et le Cuisinier,67,french,5.0,3.0,75018, rue des Trois Frères
+Les Cocottes,520,bistros,4.0,3.0,75007, rue Saint Dominique
+La Ville de Provins,4,brasseries,4.5,2.0,75010, boulevard de Strasbourg
+Kokoro,5,french,5.0,2.0,75005, rue des Boulangers
+Frenchie Restaurant,212,french,4.5,4.0,75002,- rue du Nil
+Le Poulailler,6,french,4.5,,75011, rue Saint-Sabin
+Café Bonne Biere,15,brasseries,4.0,2.0,75011, rue du Faubourg du Temple
+Ducasse sur Seine,2,french,4.5,,,Port Debilly
+Les Arlots,16,french,4.5,3.0,75010, rue Faubourg Poissonnière
+Les Deux Magots,335,cafes,3.5,3.0,75006, place Saint-Germain des Prés
+Camélia,22,french,4.5,4.0,75001, rue Saint-Honoré
+Poulette,53,french,4.0,3.0,75001, Rue Etienne Marcel
+La Cantine du Troquet,12,french,4.5,3.0,75014, rue Daguerre
+East Mamma,239,pizza,4.5,2.0,75011, rue du Faubourg Saint-Antoine
+Gabylou,12,french,4.5,3.0,75017, rue d'Armaillé
+La Cantine de Gaston,1,bistros,5.0,,75013, rue de Tolbiac
+Odette,4,french,4.5,,75001, rue du Pont Neuf
+Le Barbouquin,12,bookstores,4.5,2.0,75020, rue Dénoyez
+Le Coin d'Alexandre,7,french,5.0,3.0,75015, rue Olivier de Serres
+Holybelly 5,233,breakfast_brunch,4.5,2.0,75010, rue Lucien Sampaix
+Baltard au Louvre,6,brasseries,4.5,,75001, Rue Coquillière
+La Recyclerie,92,culturalcenter,4.0,2.0,75018, boulevard Ornano
+L'Os à Moelle,1,french,5.0,2.0,75020, avenue Gambetta
+Le Porte Pot,133,wine_bars,4.5,2.0,75005, rue Boutebrie
+Shabestan - Mirabeau,23,french,4.5,3.0,75016, avenue de Versailles
+La Fusée,37,french,4.0,2.0,75003, Rue St Martin
+Rivié,4,french,5.0,,75002, rue du Sentier
+Chez la Vieille,14,french,4.0,3.0,75001, rue Bailleul
+Terra,2,french,4.5,,75003, rue des Gravilliers
+Aux Tonneaux des Halles,39,french,4.0,2.0,75001, rue Montorgueil
+Au Pied du Sacré Coeur,162,french,4.5,2.0,75018, rue Lamarck
+La Dame de Pic,29,french,4.5,4.0,75001, rue du Louvre
+Le Plomb du Cantal,74,french,4.0,2.0,75010, bd St Denis
+Mystery Cuisine,10,french,5.0,4.0,75001, Bis Rue De Montpensier
+Marrow,4,bistros,5.0,,75010, rue du Faubourg Saint-Martin
+Le Petit Opportun,4,french,5.0,2.0,75001, place Saint Opportune
+Septime,135,modern_european,4.5,4.0,75011, rue de Charonne
+Kozy,263,coffee,4.0,1.0,75007, avenue Bosquet
+Il Etait une Oie dans le Sud Ouest,35,french,4.5,3.0,75017, Rue Gustave Flaubert
+L'Atelier de Joël Robuchon,376,french,4.0,4.0,75007, rue de Montalembert
+L'Acolyte de l'Insolite,7,french,4.5,3.0,75011, rue de la Folie Méricourt
+Le Petit Broc,35,brasseries,4.0,2.0,75014, boulevard Raspail
+La Cuisine de Philippe,33,french,4.5,3.0,75006, rue Servandoni
+Framboise,200,creperies,4.0,2.0,75008, rue de Ponthieu
+Le Gramont,14,bistros,4.5,,75009, boulevard des Italiens
+L'Espadon,4,french,5.0,,75001, place Vendôme
+L'Auberge Café,34,french,4.0,2.0,75001, rue Bertin Poirée
+Comice,11,french,5.0,,75016, avenue de Versailles
+la crêperie,72,creperies,4.5,1.0,75008, rue Pasquier
+Le Coq Rico,104,bistros,4.5,4.0,75018, Rue Lepic
+Le Louis,30,french,4.5,3.0,75001, rue Coquillière
+Le Rigmarole,9,french,4.5,,75011, rue du Grand Prieuré
+Le Bon Georges,47,bistros,4.5,3.0,75009, rue Saint-Georges
+Shakespeare and Company,302,bookstores,4.5,2.0,75005, rue de la Bûcherie
+Chungking Express,20,chinese,4.5,2.0,75009, rue de la Tour d'Auvergne
+Kouchery du Bon Coeur,6,egyptian,4.5,1.0,75018, rue Mont-Cenis
+IMA,16,mediterranean,4.5,2.0,75010, quai de Valmy
+Le Village Monge,21,brasseries,4.0,2.0,75005, rue Monge
+Ob-la-Di,96,breakfast_brunch,4.5,2.0,75003, rue de Saintonge
+Le Royal,47,bistros,4.0,2.0,75007, rue de Grenelle
+Happy Caffé,54,creperies,5.0,1.0,75001, rue de Rivoli
+Po Boy,6,cajun,5.0,,75010,Quai de Jemmapes
+Le Cadoret,3,bistros,5.0,,75019, rue Pradier
+Sanukiya,342,japanese,4.5,2.0,75001, rue d'Argenteuil
+Caprice café,4,french,4.5,2.0,75014, Avenue Jean Moulin
+Les Ursulines,5,french,4.5,2.0,75005, rue Gay Lussac
+La Cantine des Tsars,4,russian,4.5,,75001, rue du Roule
+L'Acanthe,28,french,4.0,2.0,75004, rue Saint Martin
+Chez Gladines,222,basque,4.0,2.0,75005, bd Saint-Germain
+L'Arpège,212,french,4.0,4.0,75007, rue de Varenne
+Djakarta Bali,77,indonesian,4.0,3.0,75001, rue Vauvilliers
+Ô Chateau,144,wine_bars,4.5,2.0,75001, rue Jean-Jacques Rousseau
+Langousta,31,seafood,5.0,2.0,75016, rue Singer
+Au Pied de Cochon,324,seafood,3.0,3.0,75001, rue Coquillière
+La Crêperie,91,creperies,4.0,2.0,75005, rue Soufflot
+Breakfast in America,285,breakfast_brunch,4.0,2.0,75005, rue des Ecoles
+La Maison de la Truffe,83,french,4.5,4.0,75008, place de la Madeleine
+Le Cosy,19,french,4.0,2.0,75012, avenue de Saint-Mandé
+Le Baudelaire,15,french,4.5,3.0,75001,- rue Duphot
+Au Père Louis,252,wine_bars,4.0,2.0,75006, rue Monsieur le Prince
+Le Festiv',9,bistros,4.0,2.0,75017, rue Guy Moquet
+La Brigade,2,popuprestaurants,5.0,,75002, boulevard des Italiens
+Le Tout Petit,23,bistros,4.0,2.0,75017, place du Docteur Félix Lobligeois
+Les Petites Canailles,20,french,4.0,2.0,75011, rue Amelot
+Le Mimosa,7,cafes,4.0,2.0,75001, rue du Pont-Neuf
+Pret A Manger,3,coffee,4.5,,75001,- rue du Louvre
+Les Enfants du Marché,1,seafood,5.0,,75003, rue de Bretagne
+Chez Margot,53,french,4.0,2.0,75004,  bd Henri IV
+Da Franco,16,italian,4.0,3.0,75017, rue Ruhmkorff
+Le Volant Basque,223,basque,4.5,2.0,75015, rue Béatrix Dussane
+Le Fumoir,311,lounges,4.0,3.0,75001, rue de l'Amiral de Coligny
+Le Maine Café,17,brasseries,4.0,2.0,75014, avenue du Maine
+FLESH,64,bbq,4.0,2.0,75009, rue de Douai
+Canard et Champagne,25,french,4.5,3.0,75002, passage des Panoramas
+Gumbo Yaya,64,chickenshop,4.0,2.0,75010, rue Charles Robin
+Cocorico,33,breakfast_brunch,4.5,,75007, rue du Bac
+Le Petit Canard,188,french,4.5,2.0,75009, rue Henri Monnier
+Joséphine chez Dumonet,116,bistros,4.0,3.0,75006, rue du Cherche-Midi
+Au Bougnat,69,french,4.0,3.0,75004, rue Chanoinesse
+Chez Papa,6,french,4.5,2.0,75019, rue du Pré Saint-Gervais
+Bouillon Chartier,945,french,3.5,2.0,75009, rue du Faubourg Montmartre
+Marcel et Clémentine,10,bistros,4.0,3.0,75009, rue de Dunkerque
+Café de la Butte,19,french,5.0,3.0,75018, Rue Caulaincourt
+Le V,10,french,4.5,,75008, rue Vernet
+Chez Paul,2,bistros,5.0,,75001, rue des Déchargeurs
+Bistrot de l'Oulette,39,french,4.0,2.0,75004, rue Tournelles
+L'Imprimerie,49,cafes,4.0,2.0,75001, rue Coquillière
+Boulettes,47,french,4.5,2.0,75002, rue Saint-Denis
+Enza & Famiglia Trattoria Pasta,42,italian,4.5,2.0,75001, rue Saint-Honoré
+L'Aligot,8,auvergnat,5.0,,75017, avenue Niel
+Le Relais de Venise - l'Entrecôte,273,desserts,4.0,3.0,75017, boulevard Pereire
+Etude,8,french,4.5,,75116, rue de Bouquet de Longchamp
+Bistrot Richelieu,172,french,4.0,2.0,75001, rue de Richelieu
+Bistrot d'Yves,10,french,4.5,3.0,75017, rue Cardinet
+Puerta del Sol,7,peruvian,5.0,2.0,75017, rue de la Félicite
+La Régalade Conservatoire,31,brasseries,4.5,3.0,75009,Hotel de Nell Paris
+Greenhouse,2,bistros,4.5,2.0,75011, rue Crespin du Gast
+Pavillon Ledoyen,65,french,4.0,4.0,75008, avenue Dutuit
+Le Fournil,26,creperies,4.5,1.0,75006, rue Monsieur le Prince
+P'Tite Bougnate,20,french,4.0,2.0,75010, Boulevard Magenta
+Le Cochon à l'Oreille,29,french,4.0,2.0,75001, rue Montmartre
+L'Écir,31,bars,4.0,2.0,75014, bd Saint Jacques
+L'Ebouillanté,69,french,4.0,2.0,75004, rue des Barres
+Cézembre,17,french,5.0,3.0,75006, rue Grégoire de Tours
+Maison de la Culture Arménienne,14,armenian,4.5,2.0,75009, rue Bleue
+Le Warner,1,diners,5.0,,75020, rue des Couronnes
+Le Bistro de Gaspard,3,french,5.0,2.0,75007, avenue Duquesne
+Le Petit Lux,19,bistros,4.5,2.0,75006, rue de Vaugirard
+Le Caveau du Palais,25,french,4.5,3.0,75001, place Dauphine
+La Grange aux Canards,13,french,4.5,,75005, rue Frédéric Sauton
+Crêperie du Cloître,35,creperies,4.0,1.0,75004, rue Cloître Notre Dame
+Le Bougnat,8,french,4.5,2.0,75003, rue de Saintonge
+Fragments,61,cafes,4.5,2.0,75003, rue des Tournelles
+Belhara,13,basque,4.5,3.0,75007, Rue Duvivier
+Le Petit Curieux,14,french,4.5,2.0,75003, rue Filles du Calvaire
+20 Eiffel,15,french,4.5,,75007, rue de Monttessuy
+Au Reveil du XV,27,french,4.5,2.0,75015, rue Falguière
+Song Huong,52,vietnamese,4.5,2.0,75013, avenue de Choisy
+Feu,2,rotisserie_chicken,5.0,,75001, rue de l'Arbre Sec
+San,3,thai,5.0,,75001, rue Coquillière
+Le Bûcheron,69,italian,4.0,2.0,75004, rue de Rivoli
+Le Bosquet,171,bars,4.0,2.0,75007, avenue du Bosquet
+Les Caves de Bourgogne,74,brasseries,4.0,2.0,75005, rue Mouffetard
+Chez Toinette,64,french,4.5,3.0,75018, rue Germain Pilon
+La Pause Beaubourg,6,brasseries,4.0,2.0,75004, rue Renard
+Bistrot Paul Bert,282,bistros,3.5,3.0,75011, rue Paul Bert
+Bouillon Pigalle,80,french,3.5,2.0,75018, boulevard Clichy
+L'Auberge des Deux Ponts,68,french,4.0,2.0,75004, rue des Deux Ponts
+Semilla,92,french,4.0,3.0,75006, Rue Seine
+Au Plaisir,1,bistros,5.0,,75001, rue Coquillière
+Blackburn,54,cafes,4.5,2.0,75010, rue du faubourg Saint-Martin
+Firmine,390,italian,4.0,2.0,75015,  avenue de Suffren
+Heureux Comme Alexandre,96,fondue,4.5,2.0,75005, rue Parcheminerie
+La Taverne,17,brasseries,4.0,2.0,75009, boulevard des Italiens
+Chez Savy,25,french,4.5,3.0,75008, rue Bayard
+L'Atelier Maître Albert,100,french,4.0,3.0,75005, Rue Maitre Albert
+La Terrasse du 7eme,121,brasseries,3.5,2.0,75007, place de l'École Militaire
+L'Alivi,126,french,4.0,2.0,75004, rue du Roi de Sicile
+Jacopo,4,bistros,5.0,,75008,  rue Vernet
+La Marine,128,french,3.5,2.0,75010, quai de Valmy
+La Seine Café,2,brasseries,4.5,,75012, ter boulevard de la Bastille
+F T G,150,burgers,4.0,2.0,75002, rue du Nil
+Pertinence,1,french,5.0,4.0,75007, rue de l'Exposition
+Bordelais,1,bistros,5.0,,75009, rue des Capucines
+Hell's Chicken,2,waffles,5.0,,75002, rue Mandar
+Itacate,44,mexican,4.0,2.0,75001, rue Saint-Honoré
+Les Canailles,34,french,4.5,3.0,75009, Rue La Bruyère
+Le Petit Châtelet,120,french,4.0,3.0,75005, rue de la Bûcherie
+La Pie Noir,14,french,4.5,,75005, rue de la Montagne Sainte Geneviève
+Muscovado,23,cafes,4.5,2.0,75011, rue Sedaine
+Suffren,114,brasseries,3.5,3.0,75015, avenue de Suffren
+La Boucherie Café,2,french,5.0,2.0,75017, bd des Batignolles
+Wild & The Moon,95,juicebars,4.0,2.0,75003, rue Charlot
+Café Cassette,60,breakfast_brunch,4.0,2.0,75006, rue de Rennes
+Essentiel,2,french,4.5,2.0,75016, rue de Longchamp
+Janine loves Sunday,58,brasseries,4.5,2.0,75002, rue Montmartre
+Substance,5,french,5.0,,75116, rue de Chaillot
+Picotte,3,french,4.5,,75012, rue de Malte
+Ostrea,2,seafood,5.0,,75001, rue de l'Arbre Sec
+Derrière,121,modern_european,4.0,3.0,75003, rue des Gravilliers
+Garance,18,french,4.0,4.0,75007, Rue St Dominique
+Au Bourguignon du Marais,80,french,4.0,3.0,75004, rue François Miron
+LouLou,39,italian,4.0,3.0,75001, rue de Rivoli
+Fresh Noodles & Wok,49,chinese,4.5,2.0,75001, rue Saint-Denis
+Galette Café,108,creperies,4.5,2.0,75007, rue de l'Université
+La Petite Maison dans la Cour,1,french,5.0,1.0,75004, rue Saint-Paul
+Jixiao's Buns,7,chinese,4.5,,75006, quai des Grands Augustins
+Flottes,126,brasseries,3.5,3.0,75001, rue Cambon
+Aux Arts Etc...,55,cafes,4.5,2.0,75005, quai de Montebello
+Tour d'Argent,143,french,4.0,4.0,75005, quai de la Tournelle
+Express de Lyon,43,sportsbars,4.0,2.0,75012, rue Lyon
+Lili et Riton,8,french,4.5,,75014, rue du Montparnasse
+Augustin,8,french,4.0,3.0,75014, rue Daguerre
+Café Varenne,78,french,4.5,2.0,75007, rue de Varenne
+Le Pigalle,23,hotels,4.0,3.0,75009, rue Frochot
+Café New York,19,french,4.5,,75016, avenue de New York
+Paul,27,bakeries,4.5,2.0,75001, Jardin du Carrousel
+Robert et Louise,317,french,4.0,3.0,75003, rue Vieille du Temple
+La Goutte d'Or,8,brasseries,4.0,2.0,75018, rue de la Goutte d'Or
+Le Comptoir Colonial,2,gourmet,5.0,2.0,75018, Rue Lepic
+Le Franc Tireur,39,brasseries,4.0,2.0,75017, rue d'Armaillé
+Les Bougresses,54,french,4.5,3.0,75004, rue Jarente
+Le Descartes,10,french,4.0,2.0,75005, rue Thouin
+Le Sanglier Bleu,17,french,4.5,3.0,75018, bd de Clichy
+Hugo & Co,13,french,4.0,,75005, rue Monge
+Au Bon Accueil,80,french,4.5,3.0,75007, rue Monttessuy
+Papillon,4,french,4.5,4.0,75017, rue Meissonier
+Iovine's,42,pizza,5.0,2.0,75001,  rue du Colonel Driant
+Le New York,2,fishnchips,5.0,,75116, avenue de New York
+Le Petit Pontoise,136,bistros,4.5,3.0,75005, rue de Pontoise
+La Bécane à Gaston,7,french,5.0,,75010, rue Lucien Sampaix
+L'Auberge de Flora,16,french,4.0,3.0,75011, bd Richard-Lenoir
+Roomies,35,burgers,4.5,2.0,75001, rue du Cygne
+Cuppa,16,coffee,5.0,,75007, rue de l'Université
+Au P'tit Zinc,9,bistros,4.5,2.0,75014, rue des Plantes
+Bistrot 31,49,french,4.5,3.0,75016, avenue Théophile Gautier
+Le Bistrot des Halles,19,brasseries,4.0,2.0,75001, rue des Halles
+Sacrée Fleur,91,french,4.5,3.0,75018, rue Clignancourt
+Les Bains - La Salle à Manger,2,french,5.0,4.0,75003, rue du Bourg l'Abbé
+Le Moulin de la Galette,31,french,4.0,3.0,75018, rue Lepic
+Foyer de la Madeleine,8,french,5.0,,75008,Place de la Madeleine
+Le Petit Médicis,15,french,4.5,3.0,75006, rue de Médicis
+Loubnane,70,lebanese,4.5,2.0,75005, rue Galande
+Récamier Sté le,3,restaurants,4.5,,75007, rue Récamier
+Café de la Paix,224,french,3.5,3.0,75009, place de l'Opéra
+LArchimède,1,bistros,5.0,,75010, rue Marie et Louise
+Indien Royal,13,indpak,4.0,,75017, rue Gauthey
+Le Quartier Général,22,bistros,4.0,3.0,75005, boulevard Saint Germain
+Proibido,48,bars,4.0,1.0,75018, rue Durantin
+La Tour de Montlhéry ou chez Denise,103,french,4.0,3.0,75001, rue Prouvaires
+Pedra Alta,15,seafood,4.5,3.0,75004, boulevard Beaumarchais
+Bistrot Cézanne,4,bistros,4.5,2.0,75008, avenue Myron Herrick
+Grand Cœur,27,french,4.0,3.0,75004, rue du Temple
+Paris Polska,9,polish,4.0,,75020, Rue Vignoles
+Ferdi,125,french,4.0,3.0,75001, rue du Mont Thabor
+Zia Paris,74,cafes,4.5,2.0,75007, avenue de Tourville
+Les Fauves,15,french,4.5,3.0,75014, boulevard Edgar Quinet
+Street Bangkok,7,thai,4.5,,75002, rue Saint-Denis
+Fermier Gourmet,31,french,4.5,2.0,75003, rue du Temple
+L'Avant Comptoir du Marché,11,tapas,4.5,2.0,75006, rue Lobineau
+Square Gardette,16,french,4.0,3.0,75011, Rue St Ambroise
+La Verrière Paris,5,french,4.5,3.0,75014, rue Niépce
+Le Pergolèse,47,french,4.5,2.0,75016, rue Pergolèse
+Ô Niam,1,panasian,5.0,,75001, rue du Cygne
+Au Petit Pot,5,bistros,4.0,2.0,75019, rue Eugène Jumin
+Le Hide,210,french,4.5,3.0,75017, Rue Gén Lanrezac
+Echo,7,breakfast_brunch,5.0,,75002, rue d'Aboukir
+Yam'Tcha,18,french,4.5,4.0,75001, rue Saint-Honoré
+Nuance Café,9,cafes,4.5,,75005, rue Linné
+Au Dernier Métro,168,french,4.0,2.0,75015, boulevard de Grenelle
+La Cave de l'Insolite,28,beer_and_wine,4.5,3.0,75011, rue de la Folie Méricourt
+Pierre Sang,147,french,4.5,3.0,75011, rue Oberkampf
+Au Boeuf Couronné,98,french,4.0,3.0,75019, avenue Jean Jaurès
+Arthur et Juliette,12,brasseries,4.0,2.0,75015, rue des Morillons
+Blaise et Basile,11,bistros,4.0,2.0,75020, place Saint-Blaise
+Les Arènes,2,brasseries,4.5,2.0,75005, rue Linné
+Beckett,2,bistros,5.0,3.0,75009, rue Godot de Mauroy
+Ma Salle à Manger,61,sud_ouest,4.0,2.0,75001, place Dauphine
+Le Saint Placide,45,french,4.0,2.0,75006, rue de Rennes
+Dominique Bouchet,25,french,4.5,2.0,75008, Rue Treilhard
+Tradi,8,bistros,5.0,3.0,75002, rue du Mail
+Lapérouse,3,french,4.0,,75006, quai des Grands Augustins
+Le Mary Céleste,134,tapasmallplates,4.0,2.0,75003, rue Commines
+L'Abreuvoir,3,french,4.0,,75015, rue du Docteur Finlay
+Au Bouquet Saint-Paul,58,brasseries,4.0,2.0,75004, rue Saint-Antoine
+D'Chez Eux,45,french,4.5,4.0,75007, ave de Lowendal
+Makoto Aoki,28,french,4.5,3.0,75008, rue Jean Mermoz
+Café du Trocadéro,112,french,3.0,3.0,75116, place Trocadéro et  Novembre
+Essaouira,46,moroccan,4.5,2.0,75116, rue de Magdebourg
+Shabestan,5,persian,5.0,,75008, rue du Commandant Rivière
+Restaurant Pierre Gagnaire,97,french,4.0,4.0,75008, rue Balzac
+Chez Georges,23,creperies,4.5,,75003, place de la République
+Restaurant Véro-Dodat,6,french,4.5,2.0,75001, Galerie Véro-Dodat
+Le Parisien,16,cafes,4.0,2.0,75003, rue Saint-Martin
+Les Fêtes Galantes,25,french,4.0,2.0,75005, rue Ecole Polytechnique
+Bob's Bake Shop,40,desserts,4.5,2.0,75018,Halle Pajol
+Port Louis Paris,4,bistros,5.0,2.0,75012, rue Claude Tillier
+Le Cambodge,148,cambodian,4.0,2.0,75010, avenue Richerand
+Restaurant de la Tour,48,french,5.0,3.0,75015, Rue Desaix
+Fermier Gourmet,3,french,5.0,,75005, boulevard Saint-Germain
+LOCO,12,argentine,4.5,,75009, rue du Faubourg Montmartre
+African Kitchen,12,african,4.0,,75011, rue Saint-Maur
+Bistro V,15,bistros,5.0,,75005, bd de Port-Royal
+Café Beaujolais,114,french,3.5,2.0,75015, avenue de Suffren
+Le Commerce,33,brasseries,3.5,2.0,75015, rue Commerce
+L'Ami Jean,225,french,4.0,4.0,75007, rue Malar
+Canard Street,5,sud_ouest,5.0,,75002, rue des Petits Champs
+Les Routiers,30,french,4.5,2.0,75018,  rue Marx Dormoy
+Fulgurances l'Adresse,16,french,4.5,4.0,75011, rue Alexandre Dumas
+Café des Deux Moulins,176,brasseries,3.0,2.0,75018, rue Lepic
+Le P'tit Gavroche,13,french,4.0,2.0,75015, rue Blomet
+Chez Michel,88,french,4.0,3.0,75010, rue de Belzunce
+Le Poulbot,48,french,4.5,2.0,75018, rue Poulbot
+Chez Papa Jazz Club,43,jazzandblues,4.5,3.0,75006, rue Saint-Benoît
+Le Ruisseau,43,burgers,4.5,2.0,75018, rue du Ruisseau
+El Juanchito,30,latin,4.0,2.0,75011, Rue De La Folie Regnault
+Freddy's BBQ,5,bbq,5.0,,75004, rue Saint-Denis
+Le Bistro Marbeuf,98,french,4.0,2.0,75008, rue Marbeuf
+Restaurant du Palais Royal,3,french,5.0,4.0,75001, galerie de Valois
+Jozi Café,14,coffee,5.0,1.0,75005, rue Valette
+Le Centenaire,35,french,4.0,2.0,75011, rue Amelot
+Gambino,208,italian,4.5,2.0,75001, rue Gomboust
+Lasserre,51,french,4.5,4.0,75008, ave Franklin D Roosevelt
+Café Mademoiselle,12,bistros,3.5,,75001, rue Duphot
+Domaine de Lintillac,42,french,4.0,2.0,75007, rue Rousselet
+Lockwood,104,tapasmallplates,4.0,2.0,75002, rue d'Aboukir
+Rumeurs,3,wine_bars,5.0,2.0,75005, rue des Ecoles
+Café de l'Homme,100,french,3.5,3.0,75116, place du Trocadero
+Les Comestibles,9,french,4.5,2.0,75018, rue du Mont-Cenis
+Le Bistrot d'Henri,124,french,4.0,3.0,75006, rue Princesse
+Le Bistro de Longchamp,18,bistros,4.5,2.0,75016, rue de Longchamp
+L'Elan 9,2,bistros,5.0,,75009, rue du Faubourg Poissonnière
+La Porteña,20,argentine,4.5,2.0,75018, rue Muller
+Chez Papa,5,sud_ouest,4.0,,75014, bd du Montprnasse
+Les Enfants Perdus,128,french,4.0,3.0,75010, rue des Recollets
+Le Recrutement,61,brasseries,4.0,2.0,75007, boulevard la Tour Maubourg
+Aux Prés,58,bistros,4.0,3.0,75006, rue du Dragon
+La Belle Équipe,36,bistros,4.5,2.0,75011, rue de Charonne
+Tabac de l'Université,9,french,5.0,3.0,75007, rue de l'Université
+Marcelle,3,french,5.0,,75012, rue Antoine Vollon
+Jantchi,137,korean,4.0,2.0,75001, rue Thérèse
+Café Madame,7,breakfast_brunch,4.0,,75006, Rue de Vaugirard
+Le Bastringue,60,bistros,4.0,2.0,75019, quai de la Seine
+L'Antre d'Eux,3,bistros,4.5,2.0,75006, Rue Mézières
+Banh Mi,156,vietnamese,4.5,1.0,75003, rue de Turbigo
+Le Colimaçon,134,french,4.5,3.0,75004, rue Vieille du Temple
+Virage Lepic,15,french,4.5,2.0,75018, Rue Lepic
+Café de Mars,98,french,4.5,2.0,75007, rue Augereau
+Shirvan,5,mideastern,4.0,,75008, place de l'Alma
+Strada Café,67,coffee,4.5,1.0,75003, rue du Temple
+La Buvette,18,wine_bars,4.5,2.0,75011, rue St Maur
+Restaurant Bucovina,2,romanian,5.0,,75012, boulevard de Picpus
+Victor,38,french,4.0,3.0,75116,  rue Lauriston
+L'Esplanade,51,brasseries,3.5,3.0,75007, rue Fabert
+Le Templier,16,french,4.5,3.0,75015,  rue Armorique
+Jaïs,2,french,5.0,,75007, rue Surcouf
+Au Roi du Café,60,bistros,4.0,2.0,75015, rue Lecourbe
+KIEZ Biergarten,45,german,4.0,2.0,75018, rue Vauvenargues
+Le Black Dog,117,bars,4.0,2.0,75004, rue des Lombards
+La Maison du Jardin,36,french,4.5,3.0,75006, rue Vaugirard
+Divin' Art,11,creperies,5.0,,75003, rue Borda
+Les Pères Siffleurs,3,french,5.0,,75015, rue Gerbert
+Le Florimond,74,french,4.5,3.0,75007, avenue de la Motte Picquet
+Neva Cuisine,27,bistros,4.5,3.0,75008, rue de Berne
+Racines des Prés,6,bistros,5.0,,75007, rue de Gribeauval
+Café Roussillon,84,cafes,4.0,2.0,75007, rue de Grenelle
+Le Baratin,85,french,4.0,3.0,75020, rue Jouye Rouve
+Le Consulat,49,french,4.0,2.0,75018, rue Norvins
+Les Petites Bouchées,68,tapas,4.5,2.0,75004, rue du Roi de Sicile
+Brasserie Bellanger,7,french,4.5,,75010, rue du Faubourg Poissonnière
+Bistrot du Centre,7,french,4.0,2.0,75004, rue Saint-Martin
+Les Puces des Batignolles,76,french,4.0,2.0,75017, rue Legendre
+La Bodega,9,bars,4.0,2.0,75018,  rue Ordener
+Verjus,150,modern_european,4.5,4.0,75001, rue de Richelieu
+A la Biche au Bois,143,french,4.0,3.0,75012, avenue Ledru Rollin
+MELT OBERKAMPF,29,steak,4.5,3.0,75011, rue de la Folie Méricourt
+Clichy's Tavern,57,belgian,4.0,2.0,75018,  bd Clichy
+Au Pied de Fouet,68,french,4.0,2.0,75006, rue Saint Benoît
+Sunday in Soho,8,cafes,4.5,,75002, rue Saint-Marc
+La Petite Chaise,63,french,4.5,3.0,75007, rue Grenelle
+Dersou,33,modern_european,4.5,3.0,75012, rue Saint-Nicolas
+Onze Bar,3,french,4.5,2.0,75005, rue Xavier Privas
+Les Frères Bretons,18,creperies,5.0,2.0,75015, boulevard de Grenelle
+Rosemary,8,bistros,4.0,3.0,75004, rue Crillon
+L'Oustal,9,brasseries,4.5,2.0,75015, bd de Grenelle
+Chez Trassoudaine,18,french,4.5,3.0,75013, place Nationale
+Bourgogne Sud,36,french,4.0,3.0,75009, Rue Clichy
+Chez Ramona,15,spanish,4.5,2.0,75020, rue Ramponneau
+Le Louis XVI,8,french,4.0,3.0,75008, rue des Mathurins
+Café Marlette,69,bakeries,4.0,2.0,75009, rue des Martyrs
+Caminito Cabaret,23,french,4.5,2.0,75013,- rue du Dessous des Berges
+Le Chansonnier,17,french,4.0,3.0,75010, Rue Eugene Varlin
+Soon Grill,26,korean,4.5,3.0,75003, rue des Tournelles
+A la Cloche d'Or,43,french,4.0,3.0,75009, rue Mansart
+Le Scheffer,45,bistros,4.5,2.0,75016, Rue Scheffer
+Au Club des Siciliens,22,italian,4.5,3.0,75006, rue du Dragon
+L'Assignat,12,french,4.0,1.0,75006, rue Guénégaud
+Le Bar du Caveau,8,french,4.5,,75001, place Dauphine
+Chez Lévêque,4,french,4.5,,75005, rue Saint-Julien le Pauvre
+Le Saveur,1,restaurants,5.0,,75020, rue Sorbier
+Restaurant Sichuan,2,szechuan,5.0,,75005, rue Descartes
+Bekseju Village,24,korean,4.5,3.0,75013, bd Saint-Marcel
+Le Mistral,5,bistros,4.0,2.0,75004, Place du Chatelet
+Café du Pont Neuf,58,brasseries,3.5,2.0,75001, quai du Louvre
+Le Pure Café,64,french,4.0,2.0,75011, rue Jean Macé
+Les Climats,33,modern_european,4.5,4.0,75007, rue de Lille
+Noglu,14,breakfast_brunch,5.0,,75007, rue de Grenelle
+Taillevent,87,french,4.5,4.0,75008, rue Lamenais
+La Rotonde de la Muette,9,brasseries,3.5,3.0,75116, chaussée de la Muette
+Marcelle,10,breakfast_brunch,4.5,3.0,75001, rue Montmartre
+L'Afghanistan,46,afghani,4.0,2.0,75011, rue Saint-Maur
+Le Choupinet,7,brasseries,4.5,,75006, boulevard Saint-Michel
+Le Petit Tibet,7,himalayan,4.0,2.0,75019, ter rue d'Aubervilliers
+Le Gabriel,11,french,5.0,4.0,75008, avenue Gabriel
+Nur Malaysia,1,malaysian,5.0,,75018,- rue Ordener
+Au Vieux Comptoir,48,french,4.0,3.0,75001, rue des Lavandières-Sainte-Opportune
+Détour,3,french,5.0,,75009, rue de la Tour des Dames
+Au Petit Bar,17,french,4.5,2.0,75001, rue du Mont-Thabor
+L'Alchimiste,47,french,4.0,3.0,75012, rue de Charenton
+Les Délices du Fournil,48,cakeshop,4.0,1.0,75005, rue Carmes
+Le Petit Paris,10,french,4.5,3.0,75017, rue Rennequin
+Liife,6,salad,4.5,1.0,75002, rue des Petits Carreaux
+Le Bistrot de Louise,2,french,4.5,,75017, Rue Tocqueville
+Coin-Op Table,3,asianfusion,5.0,,75009, rue de Maubeuge
+Akasaka,7,korean,5.0,,75015, rue Beaugrenelle
+Le Bistrot des Campagnes,121,bistros,4.5,2.0,75014, rue Léopold Robert
+Ferrandi Paris,6,cookingschools,4.5,2.0,75006, rue de l'Abbé Grégoire
+Pastamore,4,italian,5.0,,75006, boulevard du Montparnasse
+Le P'tit Bréguet : Bistro Auvergnat,13,bistros,4.0,2.0,75011, rue Boulle
+Balagan,56,mideastern,4.5,2.0,75001, rue d'Alger
+Le Machon,3,restaurants,4.5,2.0,75003, Rue Commines
+Republique of Coffee,63,coffee,4.5,1.0,75010, boulevard Saint-Martin
+Olio Pane Vino,31,italian,4.5,2.0,75001, rue Coquillière
+Wunderbär,5,german,4.0,2.0,75010, rue Beaurepaire
+Le Roi du Pot au Feu,46,french,4.0,2.0,75009, rue Vignon
+L'Antre Amis,22,french,4.0,3.0,75015, rue Bouchut
+Le Petit Varenne,4,french,5.0,,75007, rue de Bellechasse
+La Renaissance,24,bistros,4.0,2.0,75018, rue Championnet
+Le Bouchon et l'Assiette,24,french,4.5,3.0,75017, Rue Cardinet
+La Réserve de Quasimodo,15,wine_bars,4.5,2.0,75004, rue de la Colombe
+Crêperie Genia,44,creperies,4.5,1.0,75005, rue de la Harpe
+De Voltaire à Rousseau,2,pubs,4.5,,75001, rue Jean-Jacques Rousseau
+La Coopérative,29,brasseries,3.5,2.0,75001, Rue Rivoli
+Relais des Routiers,1,french,5.0,,75001,Pont Neuf
+L'Ambassade d'Auvergne,121,french,4.0,3.0,75003, Rue Grenier St Lazare
+Club des Poètes,14,restaurants,4.5,2.0,75007, Rue Bourgogne
+Le Club des 5,160,french,4.0,3.0,75017, rue des Batignolles
+Camille,103,bistros,4.0,3.0,75003, rue des Francs Bourgeois
+La Sourdière,15,french,4.0,3.0,75001, rue la Sourdière
+Crêperie Brocéliande,117,creperies,4.5,2.0,75018, rue des Trois Frères
+Le Temps au Temps,34,french,4.0,2.0,75011, rue Paul Bert
+Zébulon,22,bistros,4.5,3.0,75001, rue de Richelieu
+Tire Bouchon,8,restaurants,4.5,,75005, rue Descartes
+Crêpe Avenue,32,creperies,4.5,2.0,75008, rue de Surène
+L'Aubergeade,42,french,4.5,2.0,75012, rue de Chaligny
+Le Reminet,122,french,4.5,3.0,75005, rue Grands Degrés
+Ryaki,4,restaurants,5.0,2.0,75004, rue de la Verrerie
+Le Bois,5,french,4.5,,75016, rue Bois le Vent
+Tavola di Gio,12,restaurants,4.5,2.0,75014, Boulevard Raspail
+Le Verre à Pied,14,bistros,4.5,2.0,75005,  rue Mouffetard
+Le Marcounet,20,french,4.0,3.0,75004, quai de l'Hotel de Ville
+Zanzibar,2,latin,4.0,,75011, Passage Ménilmontant
+Le Comptoir des Petits Champs,46,french,4.0,3.0,75001, rue des Petits Champs
+Café Bolivar,2,bistros,5.0,,75019, avenue Secrétan
+L'Astrance,60,french,4.5,4.0,75016, rue Beethoven
+La Société,70,french,4.0,4.0,75006, place Saint Germain
+Chez Papa,2,sud_ouest,4.5,,75009, rue de Clichy
+Pontochoux,12,japanese,5.0,,75003, rue du Pont aux Choux
+Lou Tiap,7,sud_ouest,4.5,2.0,75020, rue de Bagnolet
+L'Intermède,1,bistros,4.0,2.0,75013, boulevard de l'Hôpital
+L'Auberge du Roi Gradlon,2,french,5.0,3.0,75013, boulevard Arago
+La Maison du Hot Dog,2,hotdog,5.0,1.0,75010, rue Jacques Louvel-Tessier
+Sur la Route de Plouescat,53,creperies,4.5,2.0,75018, rue Lamarck
+L'Avant Comptoir de la Mer,65,seafood,4.5,3.0,75006, carrefour de l'Odéon
+Café du Marché,157,brasseries,3.5,2.0,75007, rue Cler
+Babone,1,african,5.0,1.0,75018, Rue Marcadet
+Le Bailli de Suffren,163,brasseries,1.5,2.0,75007, avenue de Suffren
+Lao Chaleune,28,laotian,4.5,1.0,75013, rue Château des Rentiers
+Le Bistrot de la Galette,6,french,5.0,3.0,75018, ter rue Lepic
+La Piscine,13,bistros,3.5,2.0,75018, Rue Poteau
+Pergo Café,1,brasseries,5.0,,75116, rue Pergolèse
+Les Bancs Publics,20,french,4.5,2.0,75019, rue de Nantes
+Le Petit Vendôme,168,sandwiches,4.0,2.0,75002, rue des Capucines
+La Place Royale,23,french,4.0,3.0,75004,  place des Vosges
+Moon,9,korean,4.0,2.0,75015, bd Lefebvre
+Le Gallopin,74,brasseries,4.0,3.0,75002, rue Notre Dame des Victoires
+Ober Mamma,250,pizza,4.5,2.0,75011, boulevard Richard Lenoir
+Caillebotte,34,bistros,4.0,3.0,75009, rue Hippolyte-Lebas
+Chez Georges,66,french,4.0,3.0,75002, rue du Mail
+Au Bretzel,24,alsatian,4.5,2.0,75014, rue Léopold- Robert
+Matamata Coffee Bar,87,coffee,4.5,2.0,75002, rue d'Argout
+Don Lucas,1,tapas,5.0,2.0,75005, rue Monge
+Le Petit Gourmet,10,french,4.5,2.0,75009, rue Fbg Montmartre
+L'Ambroisie,55,french,4.0,4.0,75004, place des Vosges
+Le Pas Sage,47,french,4.5,3.0,75002, Passage du Grand Cerf
+L'Auberge Bressane,70,french,4.0,3.0,75007, avenue de la Motte Picquet
+Kohyang,33,korean,4.5,2.0,75015, rue du Général Estienne
+L'Affable,10,bistros,4.5,3.0,75007, rue de Saint-Simon
+Le Bonne Nouvelle,3,bistros,5.0,,75010, boulevard de Bonne Nouvelle
+Milo,4,italian,4.0,2.0,75001, rue Saint Honoré
+Bululú Arepera,34,venezuelan,4.0,2.0,75018, rue de la Fontaine du But
+Café du Rendez-Vous,96,cafes,3.5,2.0,75014, ave du Général Leclerc
+Banoi,3,vietnamese,5.0,,75011, rue Amelot
+The Frog & Underground,37,pubs,4.5,2.0,75002, rue Montmartre
+Nomicos,1,french,5.0,,75016, avenue Bugeaud
+Les Petits Plats d'Emile,24,french,4.0,3.0,75001, rue Jean-Jacques Rousseau
+Jeongané,4,korean,5.0,,75015, rue des Morillons
+Arnaud Nicolas,6,french,4.5,,75007, avenue de la Bourdonnais
+Le Jardin d'en Face,94,french,4.5,2.0,75018, rue des Trois Frères
+Le Lafon,3,brasseries,4.5,,75003, rue Réaumur
+"Terrass"" Restaurant & Bar - Rooftop",28,bars,4.0,,75018, Rue Joseph de Maistre
+Vin Bis Boétie,33,brasseries,4.0,2.0,75008,  rue de la Boétie
+La Cuisine de Chez Moi,25,chinese,4.5,2.0,75009, rue Richer
+Jardin des Pâtes,98,italian,4.0,2.0,75005, rue Lacépède
+Le Castiglione,72,french,3.5,3.0,75001, rue Saint Honoré
+Le Quasimodo Notre-Dame,33,brasseries,4.0,2.0,75004, rue d'Arcole
+Múkura,14,latin,4.5,2.0,75019, rue Rébeval
+The Grill Room,7,bbq,4.5,,75008, boulevard Malesherbes
+Armandie,37,french,4.0,3.0,75015,  rue Petel
+Le Louchébem,188,steak,4.0,3.0,75001, rue Berger
+Le Bouquet des Archives,21,brasseries,4.0,2.0,75004, rue des Archives
+Le Chalet des Iles,218,french,4.0,3.0,75016, chemin de Ceinture du Lac
+La Grande Cremerie,27,wine_bars,4.5,2.0,75006, rue Grégoire-de-Tours
+Maison Marie,9,brasseries,4.0,,75005, rue Saint-Jacques
+Le Terminus du Châtelet,11,french,4.0,3.0,75001, rue Lavandières Ste Opportune
+Clamato,84,seafood,4.5,3.0,75011, rue Charonne
+Les Petits Plats,51,bistros,4.5,3.0,75014, Rue Plantes
+Aki Boulanger,136,bakeries,4.0,2.0,75001, rue Sainte-Anne
+Bon Mangé Créole,5,caribbean,4.5,1.0,75017, rue Biot
+Le Saint Gervais,5,brasseries,4.0,2.0,75003, rue du Vielle Temple
+Los Güeros,2,mexican,5.0,,75011, rue Saint-Ambroise
+Restaurant Montée,6,french,5.0,,75014, rue Léopold Robert
+Les Mères Veilleuses,14,bars,4.0,1.0,75019, rue Mouzaia
+Le Copernic,15,restaurants,4.0,2.0,75016, avenue Kléber
+L'Impérial,47,brasseries,3.5,3.0,75001, rue de Rivoli
+Il Etait un Square,38,burgers,4.5,2.0,75013, rue Corvisart
+L'Escapade,18,brasseries,4.0,2.0,75007, avenue Duquesne
+L'Assiette,11,french,4.0,2.0,75018, Rue Labat
+Le Goyavier,54,reunion,4.5,2.0,75011, rue Saint-Bernard
+La Bulle Parisienne,3,bistros,3.5,,75007, avenue Anatole France
+L'Annexe,40,french,4.5,2.0,75018, rue Trois Frères
+Au Poulet Braisé,12,halal,4.5,2.0,75020,- rue Etienne Dolet
+Formidable,3,brasseries,4.5,2.0,75019, avenue Jean Jaurès
+Benoit,122,french,3.5,4.0,75004, rue Saint Martin
+Le Shanghaï Hang-Zhou,6,chinese,4.0,2.0,75001, rue Perrault
+Les Enfants Rouges,33,french,4.0,3.0,75003, rue de Beauce
+L'Ange 20,41,french,5.0,3.0,75004, rue des Tournelles
+L'Atelier Ramey,22,bistros,4.5,3.0,75018, rue Ramey
+L'Olivier du Marais,3,french,4.5,,75004, place des Vosges
+Le Richer,71,french,4.0,3.0,75009, rue Richer
+Table,10,french,4.5,4.0,75012, rue Prague
+Le Tournebièvre,37,french,4.5,3.0,75005, quai de la Tournelle
+Le Grand Café des Capucines,125,french,3.0,3.0,75009, boulevard des Capucines
+Botak Café,18,bistros,3.0,2.0,75018, rue Paul Albert
+Le Saint Ô,1,brasseries,5.0,,75001, rue Saint-Honoré
+La Rôtisserie d'Argent,60,french,4.0,3.0,75005, quai de la Tournelle
+Le Clos Y,16,french,5.0,3.0,75015, avenue du Maine
+La Cordonnerie,79,french,4.5,3.0,75001, rue Saint Roch
+Le Bon Pêcheur,14,french,4.0,3.0,75001, rue des Prêcheurs
+L'Ilot Vache,54,french,4.5,3.0,75004, rue Saint-Louis en l'île
+Le Servan,28,modern_european,4.0,3.0,75011, rue Saint Maur
+6 New York,51,french,4.0,4.0,75016, avenue de New York
+L'Endroit,41,bistros,4.0,2.0,75017, place du Docteur Félix Lobligeois
+Le Pantruche,78,french,4.5,3.0,75009, rue Victor Massé
+Le Petit Cambodge,4,cambodian,5.0,,75010, rue Beaurepaire
+Chez Paul,243,bistros,4.0,3.0,75011, rue Charonne
+Le Vieux Crapaud,4,french,5.0,,75116, rue Lauriston
+Au P'tit Curieux,10,bistros,4.0,,75010, rue de Sambre-et-Meuse
+Au P'tit Grec,211,creperies,4.5,1.0,75005, rue Mouffetard
+Le jardin de Montsouris,4,vietnamese,4.5,2.0,75014, Rue Cité Universitaire
+Khajuraho,12,indpak,5.0,,75007, bd de la Tour Maubourg
+Le Clarence,4,french,4.5,,75008, avenue Franklin Delano Roosevelt
+L'Anvers du Decor,53,french,4.0,3.0,75018,  rue Orsel
+Brasserie Napoléon III,16,bistros,4.0,2.0,75019, place Armand Carrel
+Apicius,76,french,4.5,4.0,75008, rue d'Artois
+Savarin,1,french,5.0,,75007, rue de Bourgogne
+Le Poincaré,111,french,4.0,2.0,75116, avenue Raymond Poincaré
+Beefbar,10,steak,4.0,3.0,75008, rue Marbeuf
+Chez Gladines,254,basque,4.0,2.0,75013, rue des Cinq Diamants
+Les Parisiennes,15,french,3.5,3.0,75007, avenue de la Motte Picquet
+L'Auberge Aveyronnaise,106,french,4.0,2.0,75012, Rue Gabriel Lamé
+Le Flâneur,1,bistros,5.0,,75011, boulevard du Temple
+Les Fous de L'Ile,105,french,4.0,2.0,75004, rue des Deux Ponts
+Le Jardin d'Erevan,2,armenian,4.5,,94140, rue Jules Cuillerier
+The Hood Paris,35,coffee,4.0,2.0,75011, rue Jean-Pierre Timbaud
+Canton Saint Germain Le,2,restaurants,4.5,,75006, Rue Gozlin
+Le P'tit Barcelone,8,tapas,4.5,2.0,75009, Rue Boule Rouge
+Caves Legrand,25,beer_and_wine,4.5,3.0,75002,
+Les Négociants,21,french,3.5,2.0,75005, avenue des Gobelins
+Le Moderne,34,french,4.0,3.0,75002, Rue N D Des Victoires
+La Forge,11,french,4.5,3.0,75005, Rue Pascal
+L'Epoque,6,bistros,4.0,2.0,75005, rue du Cardinal Lemoine
+Le Gai Moulin,56,french,4.0,2.0,75004, rue Saint-Merri
+Capucine Café,46,brasseries,4.0,3.0,75002, boulevard Capucines
+Les Garnements,36,french,4.0,2.0,75012, rue Michel Chasles
+Le Calife,85,french,4.5,4.0,75006,Port des Saints Pères
+Le Comptoir,7,french,4.5,2.0,75020, rue Villiers de l'isle d'adam
+Garnier,40,french,4.0,3.0,75008, rue Saint Lazare
+Café La Colonnade,17,brasseries,4.0,1.0,75001, Rue Rivoli
+Lobster Bar,16,seafood,4.0,3.0,75001, rue Coquillière
+La Corte,42,italian,4.5,3.0,75001, rue Saint-Honoré
+Sunset,20,cocktailbars,4.0,2.0,75018, rue Ordener
+L'Epi Dupin,116,bistros,4.0,3.0,75006, rue Dupin
+A Noste,63,basque,4.0,3.0,75002, rue du  Septembre
+L'Étoile Venitienne,14,french,4.0,2.0,75116, ave Kléber
+L'Absinthe,26,cafes,4.0,2.0,75003, rue de Turbigo
+Le Café de la Poste,12,bistros,4.0,2.0,75018, rue Damrémont
+Le Grand Cerf,19,bars,4.0,2.0,75002, bd Sebastopol
+The Cottage,6,british,4.5,2.0,75007, rue de Commaille
+Point Ephémère,120,musicvenues,4.0,2.0,75010, quai de Valmy
+Le Buisson d'Argent,14,french,4.5,2.0,75007, rue du Bac
+La Maison,78,bistros,4.0,3.0,75017, place Saint Ferdinand
+Le Mesturet,130,bistros,4.0,2.0,75002, rue de Richelieu
+Mamou,12,french,4.0,2.0,75009, rue Taitbout
+Chez le Libanais,180,lebanese,4.5,1.0,75006, et  rue Saint-André-des-Arts
+La Grande Cascade,51,french,4.5,4.0,75116,Bois de Boulogne
+Le Bizuth,17,french,4.0,2.0,75007, Blvd Saint Germain
+Chez Barbara,109,french,4.5,2.0,75008, rue Washington
+L'Escudella,7,bistros,4.5,,75007, avenue de Ségur
+Sequana,7,french,5.0,4.0,75001, quai des Orfèvres
+Saint-James Paris Restaurant,7,french,4.5,4.0,75116, place du Chancelier Adenauer
+Bong,74,korean,4.0,3.0,75015, rue Blomet
+Chez Léa,54,french,4.0,2.0,75005, rue Claude Bernard
+Maison Lautrec,4,french,4.0,2.0,75009, rue Jean-Baptiste Pigalle
+Le Bouclard,31,french,4.5,3.0,75018, rue Cavallotti
+L'îlot,55,seafood,4.5,2.0,75003, rue de la Corderie
+La Patache,79,french,4.0,2.0,75010, rue de Lancry
+L'Inévitable,4,bistros,4.0,2.0,75005, rue Linné
+Vivre,10,french,5.0,3.0,75002, rue de la Michodière
+Chez Imogène,102,creperies,4.5,2.0,75011, rue Jean Pierre Timbaud
+Le Brio,14,brasseries,4.0,2.0,75018, Rue Marcadet
+L'Orée du Parc,11,bistros,4.5,1.0,75005, rue de l'Abbé de l'epée
+Restaurant à Timhotel,2,french,5.0,,75017, boulevard Berthier
+Black Pinky,19,panasian,4.0,2.0,75014,  rue Gaïté
+Café Panis,139,brasseries,3.5,2.0,75005, quai de Montebello
+Les Docks 13/14,2,creperies,5.0,,75013, rue de l'Amiral Mouchez
+La Recreation,4,french,4.5,2.0,75015, ave de la Motte-Picquet
+Le Beaujolais d'Auteuil,13,bistros,4.5,2.0,75016, Boulevard de Montmorency
+L'Atelier de Joël Robuchon,145,french,4.0,4.0,75008, avenue des Champs-Elysées
+La Braisière - Jacques Faussat,27,sud_ouest,4.0,3.0,75017, rue Cardinet
+Comptoir Principal,17,brasseries,4.0,2.0,75015, boulevard de Grenelle
+Big Mamma,1,pizza,5.0,1.0,75002, Rue Réaumur
+Aimé,3,bistros,5.0,,75020, boulevard de Ménilmontant
+Square Marcadet,36,french,4.0,2.0,75018,  rue Marcadet
+Freddy's,52,tapas,4.5,2.0,75006, rue de Seine
+Who's,49,french,4.0,2.0,75004, rue Saint-Merri
+La Bourse et la Vie,19,french,4.0,4.0,75002, rue Vivienne
+Le Bizetro,8,french,5.0,3.0,75116, rue Georges Bizet
+L'Oiseau Blanc,16,french,3.5,4.0,75116,The Peninsula Paris
+Bouillon Chartier,1,french,5.0,,75006, boulevard du Montparnasse
+Crêperie Framboise Passy-Trocadéro,63,creperies,4.5,2.0,75016, bd Delessert
+Aux Lyonnais,74,french,4.0,3.0,75002, rue Saint-Marc
+Les Trois Font la Paire,18,mediterranean,4.5,2.0,75005, Boulevard St Germain
+La Chaufferie,14,bars,4.0,2.0,75010, boulevard Denain
+NordMarais,8,french,4.0,2.0,75003, rue Notre Dame de Nazareth
+Bistrot Vivienne,65,bistros,4.0,3.0,75002,
+La Palette,88,french,3.0,2.0,75006, rue de Seine
+La Maison Austerlitz,9,bistros,4.0,,75005, boulevard de l'Hôpital
+Kei,34,french,4.5,4.0,75001, rue Coq Héron
+Pho Bobun,35,vietnamese,5.0,2.0,75009,- rue Richer
+Le Lithographe,5,cafes,4.0,2.0,75014, boulevard Raspail
+La Vache Acrobate,41,french,4.0,2.0,75011, rue Amelot
+Maison Dong,2,chinese,5.0,,75002, rue Vivienne
+Le Café de l'Église,4,cafes,4.5,,75010, place Franz Liszt
+Le Comptoir de l'Artoise,18,italian,5.0,3.0,75008, rue d'Artois
+Le Mazenay,9,bourguignon,4.5,2.0,75003, rue de Montmorency
+Café Mimosa,8,breakfast_brunch,5.0,,75009, rue Buffault
+Anticafé,42,cafes,4.5,1.0,75001, rue de Richelieu
+Au Passage,113,modern_european,4.0,3.0,75011,  passage Saint Sébastien
+Le Vieux Belleville,14,bistros,4.5,1.0,75020, rue Envierges
+Josefin,11,mediterranean,4.0,3.0,75009, rue la Fayette
+La Fregate,71,french,3.5,2.0,75007, rue de Bac
+Vingt Vins d'Art,19,wine_bars,4.5,2.0,75004, rue de Jouy
+Gloria Montmartre,6,french,4.5,2.0,75018, rue d'Orsel
+Bulgogi,6,korean,5.0,,75011, rue Louis Bonnet
+Francois Felix,20,french,3.5,2.0,75008, rue Boissy d'Anglas
+Refuge des Fondues,206,fondue,4.0,2.0,75018, rue des Trois Frères
+Comme chez Maman,40,bistros,4.5,3.0,75017, rue des Moines
+Les Arts,12,french,4.5,,75116,  avenue d'Iéna
+Mariage Frères - Salon de Thé,12,tea,4.5,,75004, rue de Rivoli
+La Butte Aux Piafs,13,french,4.0,2.0,75013, bd Auguste-Blanqui
+BCBG - Bistro et Burger Gourmet,12,burgers,4.5,2.0,75015, boulevard de Grenelle
+Cook'n Saj,15,lebanese,5.0,2.0,75006, rue Bernard Palissy
+Okuda,6,japanese,5.0,,75008, rue de la Trémoille
+L'Ardoise,189,french,4.0,3.0,75001, rue du Mont Thabor
+LR - Lounge Royal,2,french,4.0,,75018,- Impasse Marteau
+Cleo,4,french,4.5,,75007, boulevard de la Tour-Maubourg
+Le Guynemer,3,brasseries,4.0,,75006, rue d'Assas
+La Bonbonnière,1,bistros,5.0,,75005, Rue Gay Lussac
+L'Elica,12,pizza,4.5,,75005, rue des Écoles
+Le Refuge du Passé,18,restaurants,4.0,2.0,75005, rue Fer à Moulin
+Midi12,19,creperies,4.5,2.0,75009, rue la Fayette
+Aux Ducs de Bourgogne,21,creperies,4.5,2.0,75007, rue de Bourgogne
+Café Paris-Halles,8,brasseries,4.0,2.0,75001, bd Sébastopol
+Cinq-Mars,84,french,4.0,3.0,75007, rue de Verneuil
+L'ardoise,2,bistros,4.5,,75004,- rue Caron
+Les Tantes Jeanne,31,french,4.5,3.0,75018, rue Véron
+A Jean Nicot,14,french,4.5,1.0,75001, rue Saint Honoré
+Tavline,8,mideastern,4.5,2.0,75004, rue du Roi de Sicile
+Uma Nota,12,international,4.5,,75002, rue Réaumur
+Café Max,9,bistros,4.0,2.0,75007, avenue de La Motte-Picquet
+Royal Vendôme Le,8,restaurants,4.0,3.0,75002, Rue Danielle Casanova
+La Petite Rose des Sables,41,french,4.5,2.0,75010, rue de Lancry
+Thym-Thym,2,lebanese,4.5,1.0,75001, rue des Lombards
+Le Café de la Nouvelle Mairie,37,french,4.0,2.0,75005, rue des Fossés-Saint-Jacques
+Le Pré,3,cocktailbars,5.0,,75006, rue du Four
+Brooklyn Café,34,tradamerican,4.0,2.0,75017, place Saint-Ferdinand
+La Maison de la Truffe,30,french,4.0,4.0,75008, rue Marbeuf
+Au Rendez Vous des Amis,27,french,4.0,2.0,75004, rue Ste Croix la Bretonnerie
+La Vierge,4,bistros,4.0,3.0,75020, rue de la Réunion
+Chez Gabriel,1,restaurants,5.0,3.0,75001, rue St Honoré
+L'Esquisse,7,french,4.0,3.0,75018,  rue Marcadet
+Mobster Diner,22,burgers,4.5,2.0,75005, rue des Boulangers
+Juste,24,seafood,4.5,2.0,75009, rue Laffitte
+Café Latin,15,brasseries,4.5,,75006, rue Saint André des Arts
+Aux Trois Mailletz,62,french,4.0,3.0,75005, rue Galande
+La Robe de la Girafe,14,brasseries,4.5,3.0,75011, rue Froment
+Le P'tit Troquet,47,french,4.5,3.0,75007, rue de l'Exposition
+La Reine de Saba,40,ethiopian,4.5,2.0,75011, rue Jean-Pierre Timbaud
+Tavern'Café,14,french,4.0,2.0,75002,- boulevard Montmartre
+Moussa l'Africain,8,african,5.0,,75001, rue Pierre Lescot
+Manko,24,peruvian,4.0,4.0,75008, avenue Montaigne
+A l'Endroit,1,french,4.0,,75019, rue du Tunnel
+Chez France,34,french,4.5,3.0,75007, rue Amélie
+Le Méchoui du Prince,53,moroccan,4.0,2.0,75006, rue Monsieur le Prince
+Coretta,39,bistros,4.5,3.0,75017, rue Cardinet
+Aux Cerises,54,cafes,4.5,2.0,75007, avenue Suffren
+L'Inédit Café,93,bistros,4.0,2.0,75012, rue Taine
+Huitrerie Régis,83,seafood,4.5,3.0,75006, rue de Montfaucon
+Le Fellini,26,italian,4.0,3.0,75001, rue Arbre Sec
+Miznon,163,mideastern,4.5,2.0,75004, rue des Ecouffes
+Le Moï,1,vietnamese,5.0,2.0,75001, rue de Richelieu
+Les Ombres,222,french,3.5,4.0,75007, quai Branly
+Café Sud Restaurant,35,french,4.0,3.0,75008, rue Castellane
+Le Ju',6,brasseries,4.0,,75004, rue des Archives
+Bagel Baget Café,32,bagels,4.5,2.0,75004, rue de la Verrerie
+Anticafé,44,cafes,4.0,1.0,75003, rue Quincampoix
+Clover,14,french,4.5,4.0,75007, rue Perronet
+L'Agapé,37,french,4.0,4.0,75017, rue Jouffroy d'Abbans
+Le Resto,14,french,4.5,2.0,75005, rue Tournefort
+Caffe dei Fratelli,5,pizza,4.0,,75001, rue des Pyramides
+Bar Italia Brasserie,53,italian,5.0,3.0,75009, rue Moncey
+Chez Francis,160,brasseries,2.5,3.0,75008, place de l'Alma
+Reed - Restaurant,49,french,5.0,3.0,75007,  rue Amelie
+Antoine,18,restaurants,3.5,4.0,75016, avenue de New York
+L'Encrier,63,french,4.0,2.0,75012, rue Traversière
+Les Saisons,20,french,4.5,3.0,75009, rue Lamartine
+Graine,9,mediterranean,4.5,2.0,75008, place Saint Augustin
+Pink Mamma,149,steak,4.5,2.0,75009,  rue de Douai
+Le122,8,french,4.0,3.0,75007, rue Grenelle
+Crabe Royal,11,seafood,4.5,,75008, place de la Madeleine
+Saigon d'Anton,4,vietnamese,5.0,,75006, rue Monsieur le Prince
+Kwon,1,korean,5.0,,75014, rue Ernest Cresson
+Olive & Thym,6,lebanese,4.5,,75004, rue Quincampoix
+La Parisienne,11,salad,4.5,1.0,75001, rue des Halles
+Kodawari Ramen,14,ramen,4.5,,75001, rue de Richelieu
+Les Artistes,3,french,4.5,2.0,75011, rue de la Folie Méricourt
+Obrigado,10,brasseries,4.0,2.0,75020, avenue de la Porte de Montreuil
+Le Cornichon,22,french,4.5,3.0,75014, Rue Gassendi
+Chez Alfred Lao Cuisine,5,laotian,5.0,,75011, rue Trousseau
+Ma Kitchen,28,korean,4.5,2.0,75010, Rue d'Hauteville
+Sylvestre,4,french,5.0,,75007, rue Saint-Dominique
+Le Laurier,84,french,4.0,2.0,75014, rue Pernety
+Brasileirinho,4,brazilian,5.0,2.0,75017, Rue Legendre
+Eathaï,6,thai,4.5,,75001, rue du Cygne
+Chez Julien,88,french,3.5,3.0,75004, rue Pont Louis-Philippe
+The Moose,224,restaurants,4.0,2.0,75006, rue des Quatre Vents
+La Traboule,3,french,4.5,,75008,- rue de Penthièvre
+Élysées Istanbul,14,halal,4.5,,75008, rue de Berri
+Café 'In,3,food,4.5,,75004, Avenue Victoria
+Fosca,7,italian,4.0,,75012, boulevard Diderot
+Les Petits Plats de Marc,7,french,4.5,2.0,75005, rue de l' Arbalete
+Le Dauphin,1,creperies,4.0,,75001, place Dauphine
+Paname Brewing Company,116,breweries,4.0,2.0,75019,  quai de la Loire
+Arzeh,5,lebanese,5.0,1.0,75015, rue Cambronne
+Café à la Fontaine,25,brasseries,4.0,1.0,75016, rue de Boulainvilliers
+Mancora,6,peruvian,4.5,2.0,75003, rue Dupetit-Thouars
+Le Relais Gascon,169,sud_ouest,4.0,2.0,75018, rue des Abesses
+Le Hameau,13,french,4.5,,75017, avenue des Ternes
+L'Archeste,2,french,5.0,,75116, rue de la Tour
+Le Bien Décidé,5,french,4.0,3.0,75006, rue du Cherche Midi
+Pita,3,mideastern,5.0,,75018, rue des Trois Frères
+Le Bouche à Oreilles,28,french,4.0,2.0,75013, Place Paul Verlaine
+Chameleon,40,french,4.5,3.0,75010, Rue René Boulanger
+Costa d'Amalfi,7,italian,4.5,2.0,75007, rue de l'Université
+La Nouvelle Gare,5,bistros,4.0,1.0,75013, Boulevard Vincent-Auriol
+L'Ebauchoir,127,french,4.0,3.0,75012,- rue de Citeaux
+Latinogourmand,13,latin,4.5,2.0,75010, rue la Fayette
+Comptoir Gourmet,46,italian,4.5,2.0,75004, rue du Temple
+L'Office,57,bistros,4.0,3.0,75009, rue Richer
+Les Botanistes,30,french,4.5,3.0,75007,  rue Chomel
+Le Pré d'Ici,2,french,5.0,2.0,75018,  rue Marcadet
+La Petit Place,18,french,3.5,2.0,75003, rue Parc Royal
+Sacré Frenchy !,4,tapas,5.0,,75003, boulevard de Sebastopol
+Buena Onda,1,argentine,5.0,,75017, rue de Prony
+David Toutain,70,modern_european,4.5,4.0,75007, rue Surcouf
+Le Jardin d'Ampère,13,french,4.5,4.0,75017, Avenue de Villiers
+Le George,22,mediterranean,4.5,4.0,75016, avenue George V
+Petit Bao,8,chinese,4.5,,75002, rue Saint-Denis
+Chez Raymonde,4,wine_bars,5.0,2.0,75011, bd Richard Lenoir
+La Clef des Champs,2,brasseries,5.0,2.0,75001, rue des Petits Champs
+Mamma Primi,25,italian,4.0,3.0,75017, rue des Dames
+Les Fines Gueules,75,french,4.0,3.0,75001, rue Croix des Petits Champs
+Pomze,96,french,4.5,3.0,75008, bd Haussmann
+Le Nemours,54,brasseries,3.5,2.0,75001, place Colette
+Culture Crêpes,30,creperies,4.5,1.0,75006, rue Saint-André-des-Arts
+We Cantine,10,vietnamese,4.5,,75001, rue des Déchargeurs
+Froufrou,1,french,5.0,,75009, place Édouard VII
+Le Ciel,7,french,4.5,3.0,75011, rue Alexandre Dumas
+Le Reinitas,9,brasseries,4.0,2.0,75018, rue du Poteau
+Petit Saigon,21,vietnamese,4.5,2.0,75005, rue Carmes
+Krügen,10,creperies,5.0,2.0,75011, rue de la Fontaine au Roi
+Café Lai Tcha,6,panasian,4.5,,75001, rue du Jour
+Candelaria,329,mexican,4.0,2.0,75003, rue de Saintonge
+Au Petit Bistro,34,french,4.0,2.0,75005, rue Mouffetard
+Café Latéral,87,french,3.5,2.0,75017, ave Mac-Mahon
+Chez Françoise,118,french,4.0,3.0,75007,Aérogare des Invalides
+Le Village Corse,5,corsican,4.0,,75012, Allée Vivaldi
+Le Sergent Recruteur,6,french,5.0,,75004, rue Saintt Louis en l'Ile
+La Fontaine de Belleville,14,cafes,4.0,2.0,75010, -  rue Juliette Dodu
+Bleu Olive,11,cafes,4.5,1.0,75007, rue de Grenelle
+L'Assaggio,7,italian,4.5,,75001,Hotel Castille
+Aux Tables du Père Lachaise,20,bistros,4.0,2.0,75020, bd de Ménilmontant
+Les 2 Gros,2,french,4.5,,75007, avenue Bosquet
+Le P'tit Pré Chez Lan,2,vegan,5.0,,75002, rue de Cléry
+Le Grand Brunch du Ritz Paris,1,breakfast_brunch,5.0,,75001, place Vendôme
+Waly-Fay,83,african,4.0,3.0,75011, rue Godefroy Cavaignac
+Le Grand Vefour,80,french,4.5,4.0,75001, rue de Beaujolais
+Le Stella,65,french,4.0,3.0,75016, avenue Victor Hugo
+Midi-Trente,3,french,5.0,,75014, rue Daguerre
+Les Fondus de la Raclette,59,french,4.0,2.0,75011, avenue Parmentier
+Le Sarrazin,1,restaurants,5.0,2.0,75005, Rue Gracieuse
+Seb'on,23,french,4.5,3.0,75018, rue d'Orsel
+Escale 40,3,french,4.5,,75005, boulevard de l'Hôpital
+Au Bon Coin,66,wine_bars,4.5,2.0,75018, rue des Cloys
+Le Chat Blanc,11,french,4.5,,75008, avenue Franklin Delano Roosevelt
+Les Mauvais Garcons,57,lyonnais,4.0,3.0,75004, rue des Mauvais Garcons
+Bien Élevé,12,bbq,4.5,2.0,75009, rue Richer
+Lac Hong,217,vietnamese,4.0,2.0,75016, rue Lauriston
+My Noodles,40,chinese,4.5,2.0,75006, boulevard du Montparnasse
+Pancake Sisters,1,breakfast_brunch,5.0,,75011, rue Popincourt
+Café Etienne Marcel,2,cafes,4.5,,75002, rue Etienne Marcel
+Little Nonna,22,pizza,4.5,,75017, avenue Niel
+Le Corner Café,43,french,4.0,2.0,75016, avenue Kléber
+Cerealiste,2,breakfast_brunch,5.0,,75003,- rue des Coutures Saint-Gervais
+La Table d'Aki,16,french,5.0,3.0,75007, Rue Vaneau
+Le Crystal,13,halal,5.0,3.0,75017, rue des Acacias
+Le Cépage Montmartrois,31,brasseries,4.0,2.0,75018, Rue Caulaincourt
+Positano,55,pizza,4.0,3.0,75006, rue des Canettes
+Invitez-Vous Chez Nous,9,french,4.5,2.0,75005, rue de l'Epée de Bois
+A la Cloche des Halles,16,wine_bars,4.0,2.0,75001, rue Coquilliere
+Nalas Aappakadai,6,indpak,4.0,2.0,75010, rue Louis Blanc
+Bistrot Pyramide,4,bistros,4.0,2.0,75001, rue des Pyramides
+Cafe Beaugrenelle,18,bars,3.5,2.0,75015, rue Saint-Charles
+El Nopal Taqueria,40,mexican,4.5,2.0,75009, rue Duperré
+Le Casse Noix,38,french,4.5,3.0,75015, rue de la Fédération
+Le Rousseau,48,french,4.0,2.0,75006, rue Cherche Midi
+Le Clos Bourguignon,139,brasseries,4.0,2.0,75009, rue de Caumartin
+Le Petit Josselin,78,creperies,4.0,2.0,75014, rue du Montparnasse
+La Fresque,79,french,4.0,2.0,75001, rue Rambuteau
+Verjus,23,wine_bars,4.5,2.0,75001, rue Montpensier
+Desvouges,10,french,4.5,3.0,75005, rue des Fosses Saint-Marcel
+La Regalia,37,cafes,4.0,2.0,75015, rue de la Convention
+Chez He,3,panasian,4.0,,75011, Cité de l'Ameublement

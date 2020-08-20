@@ -9,5 +9,5 @@ This exploratory analysis aims to provide some guidelines for newcomers in Paris
 
 * Collected data about close to 1000 restaurants using Yelp's API
 * Cleaned the data and performed feature engeenering to extract some valuable information (ex: street of the restaurant)
-* Performed a statiscal and geographical analysis using python and folium to find the best areas where to find value restaurants in Paris 
+* Performed a statiscal and geographical analysis using python and folium to find the best areas for value restaurants in Paris 
 * Came up with two "arrondissement" to recommend based on the value of the restaurants and the attractiveness of the aera

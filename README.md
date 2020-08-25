@@ -11,3 +11,20 @@ This exploratory analysis aims to provide some guidelines for newcomers in Paris
 * Cleaned the data and performed feature engeenering to extract some valuable information (ex: street of the restaurant)
 * Performed a statiscal and geographical analysis using python and folium to find the best areas for value restaurants in Paris 
 * Came up with two "arrondissement" to recommend based on the value of the restaurants and the attractiveness of the aera
+
+### Code and Ressources used:
+
+**Python version:** 3.8
+
+**Packages:** `requests, Pandas, json, ast, re, NumPy, matplotlib, seaborn, folium, qgrid`
+
+**Inspiration:** this project was inspired by justinmlam's work who did an [analysis of restaurants in Vancouver](https://github.com/justinmlam/foodcouver) using folium
+
+**Using Yelp's API:** https://learn.co/lessons/python-api-intro-yelp
+
+### EDA:
+
+#### Stastical analysis:
+
+![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/top_categories_restaurants.png) ![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/avg_price_busy_streets.png)
+

@@ -36,14 +36,14 @@ This exploratory analysis aims to provide some guidelines for newcomers in Paris
 
 * Areas classfied by the number of restaurants 
 
-![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/top_categories_restaurants.png) ![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/map_nber_restaurants.PNG)
+![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/map_nber_restaurants.PNG)
 
 * Areas classified by the average quality price ratio of the restaurants 
 
-![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/top_categories_restaurants.png) ![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/map_avg_quality_ratio.PNG)
+![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/map_avg_quality_ratio.PNG)
 
 **Main findings**:
 * They seem to be far more restaurants in the 1st arrondissement compared to the others. This result seems pretty suprising and should be interpreted with caution. In fact we are only analysing a sample (877) of the total number of restaurants in Paris, and the sample selection process might have randomely favored restaurants located in the 1st arrondissement
 * The west part of Paris as well as the 8th arrondissement definitely seems a bad choice to pick a restaurant since they give the worse value for money. If the far east seems to present an attractive quality price ratio, I will avoid this area since it is pretty far from the center. My recommandation based on this analysis would therefore be to look for a restaurant in the 3rd Arrondissement or in the 5th since they have an attractive location while still hosting good value for money restaurants
 
-**Disclaimer**:
+### Disclaimer:

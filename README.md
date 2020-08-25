@@ -47,4 +47,14 @@ This exploratory analysis aims to provide some guidelines for newcomers in Paris
 * The west part of Paris as well as the 8th arrondissement definitely seems a bad choice to pick a restaurant since they give the worse value for money. If the far east seems to present an attractive quality price ratio, I will avoid this area since it is pretty far from the center. 
 * **My recommandation based on this analysis would therefore be to look for a restaurant in the 3rd Arrondissement or in the 5th since they have an attractive location while still hosting good value for money restaurants.**
 
-## Disclaimer:
+## Legacity:
+
+This project is a personal work for non commercial use only.
+The Yelp's API terms can be find here : https://www.yelp.com/developers/api_terms
+
+## Further work:
+
+* The final analysis was based on 877 restaurants. I intend in the future to replicate this analysis on a larger sample (to get closer of the actual population) and verify it this current analysis holds on
+* I focused my analysis on trying to find the best location for value restaurants, I could instead try to find the location where I can find the highest vegan quality restaurants (which might be useful when taking out my girl friend)
+* I could precise my analysis on categories of restaurants and explore which categories are bring the best value for price etc.
+* Finally I project on analysing the restaurant scene in other big cities 

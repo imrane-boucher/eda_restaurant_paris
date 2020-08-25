@@ -1,4 +1,4 @@
-# Exploratory data analysis - Where to find the best value restaurants in Paris ?
+# Exploratory Data Analysis - Where to find the best value restaurants in Paris ?
 
 ### Background:
 
@@ -22,9 +22,9 @@ This exploratory analysis aims to provide some guidelines for newcomers in Paris
 
 **Using Yelp's API:** https://learn.co/lessons/python-api-intro-yelp
 
-### EDA:
+### Exploratory Data Analysis:
 
-#### Stastical Analysis:
+#### Statistical Analysis:
 
 ![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/top_categories_restaurants.png) ![alt text](https://github.com/imrane-boucher/eda_restaurant_paris/blob/master/images/avg_price_busy_streets.png)
 

@@ -54,7 +54,7 @@ The Yelp's API terms can be find here : https://www.yelp.com/developers/api_term
 
 ## Further work:
 
-* The final analysis was based on 877 restaurants. I intend in the future to replicate this analysis on a larger sample (to get closer of the actual population) and verify it this current analysis holds on
+* The final analysis was based on 877 restaurants. I intend in the future to replicate this analysis on a larger sample (to get closer of the actual population) and verify if this current analysis holds on
 * I focused my analysis on trying to find the best location for value restaurants, I could instead try to find the location where I can find the highest vegan quality restaurants (which might be useful when taking out my girl friend)
 * I could precise my analysis on categories of restaurants and explore which categories are bring the best value for price etc.
 * Finally I project on analysing the restaurant scene in other big cities 
